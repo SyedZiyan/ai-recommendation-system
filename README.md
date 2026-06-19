@@ -36,7 +36,8 @@ The Dark Knight
 - Recommendation Systems
 - User Preferences
 
-Sample Output
+##Sample Output:
+
 🎬 AI Recommendation System
 
 Enter your favorite genre
